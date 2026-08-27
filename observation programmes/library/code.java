@@ -70,8 +70,8 @@ public class LibraryManagementSystem {
     public static void main(String[] args) {
         Book tv=new Book();
         tv.setBookid(323);
-        tv.setAuthor("tharun");
-    tv.setBookname("art with tharun");
+        tv.setAuthor("APJ Abdul kalam");
+    tv.setBookname("wings of fire");
     tv.setPrice(300);
     System.out.println("book id is: " + tv.getBookid());
     System.out.println("author is:" + tv.getAuthor());
