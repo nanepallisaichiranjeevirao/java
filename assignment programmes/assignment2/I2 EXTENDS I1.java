@@ -1,5 +1,5 @@
 interface I1{
-    int score=232;
+    int score=240;
 public void country();
 }
  interface I2 extends I1{
